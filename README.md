@@ -5,6 +5,7 @@ Admin
 Correo: admin@admin.com
 Clave: admin
 
-User
+Cliente
+
 Correo: pedro@pedro.com
 Clave: 12345
